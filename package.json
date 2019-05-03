@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freshman-tech/url-shortener.git"
+    "url": "git+https://github.com/lethalazo/url-shortener.git"
   },
   "keywords": [
     "url shortener",
     "mongodb",
     "nodejs"
   ],
-  "author": "Ayo Isaiah",
+  "author": "Arsalan Azmi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freshman-tech/url-shortener/issues"
+    "url": "https://github.com/lethalazo/url-shortener/issues"
   },
-  "homepage": "https://github.com/freshman-tech/url-shortener#readme",
+  "homepage": "https://github.com/lethalazo/url-shortener#readme",
   "devDependencies": {
     "nodemon": "^1.18.9"
   },
