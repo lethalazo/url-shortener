@@ -72,7 +72,7 @@ body {
     user-select: none;
     background-color: #ffffff;
     color: #982c1a;
-    width: fit-content;
+    width: 80%;
     text-align: center;
     border: 2px solid #942916;
     box-shadow: 0 3px 12px rgba(255, 186, 186, 0.5);
