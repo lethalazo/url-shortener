@@ -68,11 +68,6 @@ body {
     outline: none !important;
 }
 
-.url-input:focus {
-    transition: width 1s;
-    width: 80%;
-}
-
 .url-input {
     user-select: none;
     background-color: #ffffff;
